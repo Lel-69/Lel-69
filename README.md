@@ -1,4 +1,3 @@
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LelTheOnlyOne&repo=MainZ)
 ![Hello](https://media2.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)
 
 # S4n4 4ll M4y J0w4
