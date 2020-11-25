@@ -4,7 +4,7 @@
 
 ## Hi, My name is Lel - aka [Unknwn]👋
 
-[![Discord](https://img.shields.io/discord/780929860754997268?label=Discord&logo=Discord)][discord]
+![Discord](https://img.shields.io/discord/780929860754997268?label=Discord&logo=Discord)
 
 <br />
 
@@ -25,6 +25,6 @@
 
 ### Github Stats:
 
-<a href="https://github.com/LelTheOnlyOne">
+<a href="https://github.com/Unknown-6666">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LelTheOnlyOne&show_icons=true&theme=dark" alt="_blank" />
 </a>
