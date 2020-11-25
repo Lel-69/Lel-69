@@ -8,7 +8,7 @@
 
 <br />
 
-### I'm a Student, Developer, and Streamer
+### I'm a Student and a Developer
 
 - 💡 I'm currently focused on game and webpage development, and FiveM scripting
 
@@ -26,5 +26,5 @@
 ### Github Stats:
 
 <a href="https://github.com/Unknown-6666">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LelTheOnlyOne&show_icons=true&theme=dark" alt="_blank" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Unknown-6666&show_icons=true&theme=dark" alt="_blank" />
 </a>
