@@ -1,12 +1,9 @@
 ![Hello](https://media2.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)
 
-<br />
-
 ## Hi, My name is Lel - aka [Unknwn]👋
 
 ![Discord](https://img.shields.io/discord/780929860754997268?label=Discord&logo=Discord)
 
-<br />
 
 ### I'm a Student and a Developer
 
