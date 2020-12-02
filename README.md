@@ -2,7 +2,7 @@
 
 ![Hello](https://media2.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)
 
-## Hi, My name is Lel - aka [Unknwn]👋
+## Hi, My name is Lel - 👋
 
 [![Discord](https://img.shields.io/discord/780929860754997268?label=Discord&logo=Discord)][discord]
 
@@ -27,6 +27,6 @@
 
 ### Github Stats:
 
-<a href="https://github.com/Unknown-6666">
+<a href="https://github.com/Lel-69">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Unknown-6666&show_icons=true&theme=dark" alt="_blank" />
 </a>
